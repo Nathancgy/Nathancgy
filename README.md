@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathancgy
 - 👀 I’m interested in coding proj and softwares.
-- 🌱 I’m currently learning c++ in aiming gold at USACO, preparing AIME, as well a CSA and AP Calc AB curriculum inschool.
+- 🌱 I’m currently learning c++ in aiming platinum at USACO, learning HTML and CSS, preparing AIME, as well a CSA and AP Calc AB curriculum inschool.
 - 💞️ I am really looking foward to collaboration on programs and cs projects.
 - 📫 guangyu.chen40730-biph@basischina.com
 
