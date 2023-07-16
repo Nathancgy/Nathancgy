@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nathancgy
-- 👀 I’m interested in coding projects and softwares!
-- 🌱 I’m currently learning c++ in aiming platinum at USACO, learning Typescript and HTML, and learning programming in ROS with Linux Ubuntu.
-- 💞️ I am really looking foward to collaboration on programs and cs projects!
+- 👋 Hi, I’m @Nathancgy, a high schooler passionate about everything!
+- 👀 I’m interested in coding projects and programming!
+- 🌱 My coding abilities: C++(competitive programming) > Python(projects) > SwiftUI(app development) > typescript(app development) > html.
+- 💞️ I am really looking foward to collaboration on new projects!
 - 📫 guangyu.chen40730-biph@basischina.com
 
 <!---
