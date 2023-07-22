@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nathancgy, a high schooler passionate about everything!
 - 👀 I’m interested in coding projects and programming!
 - 🌱 My coding abilities: C++(competitive programming) > Python(projects) > SwiftUI(app development) > Typescript(app development) > HTML.
-- 💞️ I am really looking foward to collaboration on new projects!
+- 🎨 I am really looking foward to collaboration on new projects!
 - 📬 guangyu.chen40730-biph@basischina.com
 
 <!---
