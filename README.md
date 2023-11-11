@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [OpenTeens](https://openteens.org/home) and self-interested projects.
 
-- 🌱 I’m currently learning **Databases & React**.
+- 🌱 I’m currently learning **ML, Databases & React**.
 
 - 👯 I’m looking to collaborate on **any fun projects!**
 
