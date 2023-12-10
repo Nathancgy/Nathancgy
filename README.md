@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **guangyu.chen40730-biph@basischina.com**
 
-- ⚡ Fun fact **I am a fun.**
+- ⚡ Fun fact **I am fun.**
 
 - 🤯 My other related account - Codeforces: [https://codeforces.com/profile/Nathan4](https://codeforces.com/profile/Nathan4)
 
