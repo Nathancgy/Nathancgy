@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancgy&label=Profile%20views&color=0e75b6&style=flat" alt="nathancgy" /> </p>
 
-- I’m currently working on [OpenTeens](https://openteens.org/home), an open-source community for teenagers, and [BijonAI](https://github.com/BijonAI)
+- I’m building [OpenTeens](https://openteens.org/home), an open-source community for teenagers
 
 - I love meeting new people. Feel free to reach **guangyu.chen40730-biph@basischina.com**
 
