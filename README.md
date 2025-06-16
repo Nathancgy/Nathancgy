@@ -1,11 +1,9 @@
-<h1 align="center">Hi👋 I'm Guangyu (Nathan) Chen</h1>
+<h1 align="center">Halo</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancgy&label=Profile%20views&color=0e75b6&style=flat" alt="nathancgy" /> </p>
 
-- I’m building [OpenTeens](https://openteens.org/home), an open-source community for teenagers
+- I’m currently interested in hardware-aligned ML architectures.
 
-- I love meeting new people. Feel free to reach **guangyu.chen40730-biph@basischina.com**
+- I occasionally participate in competitive programming competitions.
 
-- My other related account - Codeforces: [https://codeforces.com/profile/Nathan4](https://codeforces.com/profile/Nathan4)
-
-- Main skills: | **C++** | **Python** | **A little bit of frontend and backend** |
+- It's nice meeting you! Feel free to reach **nathan@tilderesearch.com**
