@@ -1,8 +1,8 @@
-<h1 align="center">Halo</h1>
+<h1 align="center">Hello!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancgy&label=Profile%20views&color=0e75b6&style=flat" alt="nathancgy" /> </p>
+- I'm currently working on applied interpretability research at [Tilde](https://www.tilderesearch.com/)
 
-- I’m currently interested in hardware-aligned ML architectures.
+- I’m interested in hardware-aligned ML algorithms.
 
 - I occasionally participate in competitive programming competitions.
 
