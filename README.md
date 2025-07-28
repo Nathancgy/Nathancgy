@@ -1,9 +1,9 @@
-<h1 align="center">Hello!</h1>
+> _Heya_
 
-- I'm currently working on applied interpretability research at [Tilde](https://www.tilderesearch.com/)
+> I'm currently working on applied interpretability research at [Tilde](https://www.tilderesearch.com/)
 
-- I’m interested in hardware-aligned ML algorithms.
+> I’m interested in hardware-aligned ML algorithms.
 
-- I occasionally participate in competitive programming competitions.
+> I occasionally participate in competitive programming competitions.
 
-- It's nice meeting you! Feel free to reach **nathan@tilderesearch.com**
+It's nice meeting you! Feel free to reach **nathan@tilderesearch.com**
