@@ -1,6 +1,6 @@
 > _Heya_
 
-I'm currently working on machine learning (ML) research at [Tilde](https://www.tilderesearch.com/)
+I'm currently working on ML research at [Tilde](https://www.tilderesearch.com/)
 
 I’m interested in efficient attention, or hardware-aligned ML algorithms in general.
 
